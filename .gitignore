@@ -1,0 +1,7 @@
+.DS_Store
+*.ipynb_checkpoints
+*.hdf5
+*.h5
+singh
+dataset
+
