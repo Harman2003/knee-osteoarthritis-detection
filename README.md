@@ -1,10 +1,5 @@
 # Knee Osteoarthritis Analysis with X-ray Images using Deep Convolutional Neural Networks
 
-This code repository is the final project of the Complex Data Mining course at
-Unicamp (MDC013).
-
-## Knee Osteoarthritis
-
 [Knee osteoarthritis](https://en.wikipedia.org/wiki/Knee_arthritis) is a
 pathology that occurs due to wear on the cartilage that protects the bones in
 this region from friction and impacts.
@@ -240,18 +235,3 @@ disease severity, as well as the area that most impacted the classification
 score.
 
 ![streamlit app - knee_dl_app](assets/streamlit_knee_low.gif)
-
-#### [pt-br] YouTube
-
-[![Análise da Gravidade de Artrose no Joelho](https://img.youtube.com/vi/gl28zQAs_rk/0.jpg)](https://www.youtube.com/watch?v=gl28zQAs_rk "Análise da Gravidade de Artrose no Joelho")
-
-## References
-
-- [Complex data mining](https://www.ic.unicamp.br/~mdc/) at
-  [unicamp](https://www.unicamp.br/unicamp/).
-- [Knee Osteoarthritis Dataset with Severity
-  Grading](https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity)
-
----
-
-made with 💙 by [mafda](https://mafda.github.io/)
